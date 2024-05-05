@@ -192,8 +192,10 @@ function App() {
           })}
         </div>
       </div>
-      <div className=" justify-center w-full  bottom-0 text-white flex items-center">
-        <span>Built by a RCB fan and a Software Developer with ❤️ and 😭 </span>
+      <div className=" justify-center w-full pb-2  bottom-0 text-white flex items-center">
+        <div className="px-10 text-center">
+          Built by a RCB fan and a Software Developer with ❤️ and 😭{" "}
+        </div>
       </div>
       <div className="flex items-center justify-center text-white pb-4">
         <a href="https://github.com/dwijjoshi" className="ml-1 underline">
