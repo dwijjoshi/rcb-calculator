@@ -1,82 +1,82 @@
 [
   {
     "team_name": "RR",
-    "played": 10,
-    "won": 8,
-    "lost": 2,
-    "points": 16,
-    "nrr": 0.622
-  },
-  {
-    "team_name": "KKR",
     "played": 11,
     "won": 8,
     "lost": 3,
     "points": 16,
-    "nrr": 1.453
+    "nrr": 0.476
+  },
+  {
+    "team_name": "KKR",
+    "played": 12,
+    "won": 9,
+    "lost": 3,
+    "points": 18,
+    "nrr": 1.428
   },
   {
     "team_name": "LSG",
-    "played": 11,
+    "played": 12,
     "won": 6,
-    "lost": 5,
+    "lost": 6,
     "points": 12,
-    "nrr": -0.371
+    "nrr": -0.796
   },
   {
     "team_name": "SRH",
-    "played": 10,
-    "won": 6,
-    "lost": 4,
-    "points": 12,
-    "nrr": 0.072
+    "played": 12,
+    "won": 7,
+    "lost": 5,
+    "points": 14,
+    "nrr": 0.406
   },
   {
     "team_name": "CSK",
-    "played": 11,
+    "played": 12,
     "won": 6,
-    "lost": 5,
+    "lost": 6,
     "points": 12,
-    "nrr": 0.7
+    "nrr": 0.491
   },
   {
     "team_name": "DC",
-    "played": 11,
-    "won": 5,
+    "played": 12,
+    "won": 6,
     "lost": 6,
-    "points": 10,
-    "nrr": -0.442
+    "points": 12,
+    "nrr": -0.316
   },
   {
     "team_name": "RCB",
-    "played": 11,
-    "won": 4,
+    "played": 12,
+    "won": 5,
     "lost": 7,
-    "points": 8,
-    "nrr": -0.049
+    "points": 10,
+    "nrr": 0.217
   },
   {
     "team_name": "PBKS",
-    "played": 11,
+    "played": 12,
     "won": 4,
-    "lost": 7,
+    "lost": 8,
     "points": 8,
-    "nrr": -0.187
+    "nrr": -0.423
   },
   {
     "team_name": "GT",
-    "played": 11,
-    "won": 4,
+    "played": 12,
+    "won": 5,
     "lost": 7,
-    "points": 8,
-    "nrr": -1.32
+    "points": 10,
+    "nrr": -1.063
   },
   {
     "team_name": "MI",
-    "played": 11,
-    "won": 3,
-    "lost": 8,
-    "points": 6,
-    "nrr": -0.356
+    "played": 13,
+    "won": 4,
+    "lost": 9,
+    "points": 8,
+    "nrr": -0.271
   }
 ]
